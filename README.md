@@ -4,10 +4,15 @@ Viral Quasispecies Spectrum Reconstruction Pipeline
 ## ViQuaS1.3 programs files and folders:
 
 ViQuaS.R
+
 viquas_files/SSAKE.pl
+
 viquas_files/exactfilter.pl
+
 viquas_files/forwardreads.pl
+
 viquas_files/edge.pl
+
 tools
 
 ## Systems software requirements:
